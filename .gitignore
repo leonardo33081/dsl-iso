@@ -1,0 +1,16 @@
+# Arquivos de configuração do eclipse
+.project
+.classpath
+# Diretório de configuração do eclipse
+.settings/
+# Arquivo de controle do VSS
+vssver.scc
+vssver2.scc
+# Diretório criado pelo MAVEN ao compilar um projeto
+target/
+# Arquivos binários
+*.jar
+*.ear
+*.war
+*.class
+/log
