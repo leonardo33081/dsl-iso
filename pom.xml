@@ -15,7 +15,7 @@
 	<properties>
 		<dependency.bsh>2.0b5</dependency.bsh>
 		<dependency.je>4.1.10</dependency.je>
-		<dependency.jdom>1.1.3</dependency.jdom>
+		<dependency.jdom>2.0.6.1</dependency.jdom>
 		<dependency.commons-cli>1.2</dependency.commons-cli>
 		<depedency.jpos>1.8.4</depedency.jpos>
 		
